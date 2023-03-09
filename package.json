@@ -1,6 +1,6 @@
 {
   "name": "command-runner",
-  "displayName": "command-runner",
+  "displayName": "Command Runner",
   "description": "This extension allows you to store and run custom CLI commands.",
   "version": "0.0.1",
   "engines": {
